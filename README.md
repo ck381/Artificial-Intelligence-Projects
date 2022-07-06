@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://i.imgur.com/fXelM2U.png" width="350" title="Binance Smart Chain">
 </p>
-This project uses deep convolutional neural networks to perform teporally consistent artistic style transfer on videos.
+This project uses deep convolutional neural networks to perform temporally consistent artistic style transfer on videos. This is achieved using state of the art optical flow optical flow prediction models such as RAFT and deep image classification models such as VGG19.
 
 # <b>Neural-Network-CIFAR-10-dataset</b>
 
