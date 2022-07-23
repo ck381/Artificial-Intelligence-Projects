@@ -1,5 +1,7 @@
 # Artificial-Intelligence-Projects
 
+This repository contains a variety of projects related to the field of machine learning and artificial intelligence.
+
 # <b>Video Style Transfer</b>
 
 <p align="center">
